@@ -2,6 +2,17 @@
 
 This repository serves as a weekly list of interesting reads related to deep learning found by our group members. If you found anything interesting throughout the week, feel free to open an issue or pull request!
 
+## 3: December 22, 2019
+
+1. ICCV Best Paper Honorable Mention Presentation [[Link]](https://www.youtube.com/watch?v=V2v0qEPsjr0)
+2. Representation Learning with Contrastive Predictive Coding [[Link]](https://arxiv.org/abs/1807.03748)
+3. Google AI Blog on Pixel 4 Portrait Mode Improvements [[Link]](https://ai.googleblog.com/2019/12/improvements-to-portrait-mode-on-google.html?m=1)
+4. Step-by-Step Explanation of LSTM and GRU Working [[Link]](https://youtu.be/8HyCNIVRbSU)
+5. Georgia Tech Machine Learning Theory Course Website [[Link]](https://cs7545.wordpress.com/)
+6. Pytorch Named Tensor Tutorial [[Link]](https://pytorch.org/tutorials/intermediate/named_tensor_tutorial.html)
+7. What does the Python Ellipsis object do?  [[Link]](https://stackoverflow.com/a/773472)
+8. New DL Algorithms beyond Backpropagation (IBM Developers UnConference 2018) [[Link]](https://www.researchgate.net/publication/322617800_New_Deep_Learning_Algorithms_beyond_Backpropagation_IBM_Developers_UnConference_2018_Zurich)
+
 ## 2: December 15, 2019
 
 1. NeurIPS Paper Awards 2019 [[Link]](https://medium.com/@N…/neurips-2019-paper-awards-807e41d0c1e)
