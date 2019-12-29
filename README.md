@@ -2,6 +2,14 @@
 
 This repository serves as a weekly list of interesting reads related to deep learning found by our group members. If you found anything interesting throughout the week, feel free to open an issue or pull request!
 
+## 4: December 29, 2019
+
+1. Blog on the ACM 2017 paper- Get to the point [[Link]](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)
+2. Text Summarisation in Machine Learning [[Link]](https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/)
+3. 7 loss functions in Machine Learning Algorithms [[Link]](https://medium.com/analytics-vidhya/a-detailed-guide-to-7-loss-functions-for-machine-learning-algorithms-26e11b6e700b)
+4. How to read a paper [[Link]](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+5. Pytorch tutorials [[Link]](https://github.com/Tessellate-Imaging/Pytorch_Tutorial)
+
 ## 3: December 22, 2019
 
 1. ICCV Best Paper Honorable Mention Presentation [[Link]](https://www.youtube.com/watch?v=V2v0qEPsjr0)
@@ -20,7 +28,13 @@ This repository serves as a weekly list of interesting reads related to deep lea
 3. Probabilistic Graphical Models [[Link]](http://www.cs.cmu.edu/~epxing/Class/10708-19/)
 4. Deep Learning on Graphs with Graphical Convolutional Networks [[Link]](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)
 5. Spiking Neural Networks [[Link]](https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b)
-6. Machine Learning Glossary [[Link]](https://yanndubs.github.io/machine-learning-glossary/)
+6. Machine Learning Glossary [[Link]](https://yanndubs.github.io#model_evaluation/accuracy_score before feature selection
+generate_accuracy_and_heatmap(lr_model, X_test, y_test)
+#model_evaluation/accuracy_score before feature selection
+generate_accuracy_and_heatmap(lr_model, X_test, y_test)
+#model_evaluation/accuracy_score before feature selection
+generate_accuracy_and_heatmap(lr_model, X_test, y_test)
+/machine-learning-glossary/)
 
 ## 1: December 08, 2019
 
