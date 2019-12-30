@@ -9,6 +9,7 @@ This repository serves as a weekly list of interesting reads related to deep lea
 3. 7 loss functions in Machine Learning Algorithms [[Link]](https://medium.com/analytics-vidhya/a-detailed-guide-to-7-loss-functions-for-machine-learning-algorithms-26e11b6e700b)
 4. How to read a paper [[Link]](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 5. Pytorch tutorials [[Link]](https://github.com/Tessellate-Imaging/Pytorch_Tutorial)
+6. Four lessons I learnt after my first full time job after college [[Link]](https://huyenchip.com/2019/12/23/leaving-nvidia-lessons.html)
 
 ## 3: December 22, 2019
 
