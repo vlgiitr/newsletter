@@ -2,6 +2,17 @@
 
 This repository serves as a weekly list of interesting reads related to deep learning found by our group members. If you found anything interesting throughout the week, feel free to open an issue or pull request!
 
+## 5: January 5, 2020
+
+1. Four Lessons I learnt after my first full-time job after college [[Link]](https://huyenchip.com/2019/12/23/leaving-nvidia-lessons.html)
+2. Becoming an independent researcher and getting published in ICLR with the spotlight [[Link]](https://link.medium.com/2f7QuM5OP2)
+3. A recipe for training neural networks [[Link]](https://karpathy.github.io/2019/04/25/recipe/)
+4. Instance noise- A trick for stabilising GAN training [[Link]](https://www.inference.vc/instance-noise-a-trick-for-stabilising-gan-training/)
+5. Career advice for recent Computer Science graduates [[Link]](https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html)
+6. A summary of advancement in AI in this decade [[Link]](https://l.facebook.com/l.php?u=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3D6SWpN64Ivb4%26amp%253Bfeature%3Dyoutu.be%26fbclid%3DIwAR22O_Gp7vWtTjlBIKAWoX3L_7KkBM5R8G5riUqrO__1_YBXX5pLBIoLEEU&h=AT1wTl4sAKJez_Pcpyrck8-Ti8Fmt4s-chGjxqBxmX2KgcMQHF2tlnydBpFB_PE75_nKhnxQvAGeowSbp3jNLYCkbR5oYKWerjx4QnaEDp11B4QPHeyIzSpyXJtdESTJbi7kCdTUVy7XtQlEhrMe-64Fv5BhpdKLd-cSpWP4x6h5-Y5PBvH9juL89vaq0b41gbfY_-ueWLrUlOeAIR-WYALM2JMRKoKD8LIUsd0v91ZWpXBYpgXGYfvmWDvFOMeQ8ARduiifE-C04mYJ0xC0nW3OyPF92W-vjOLpsz5tmW4kdNblxh_SYJBrftcqv1B9sc7BqaM0dZUsCQRsKisrXzqvesprOyNOL6EO6Fj2hJzGLOVRKn_5pojGgce1N9NTyqXXApoIEm3dHkte9p7q_DzhTOzPzCNCb7qeV_uQqFONoSnYCpHyYE6Y3TCddqITzAlvRkxN_sfv2C7km0y4myIcqCkFyP3js9dTnBks0sWBh02BjPd2TIDqFGRpFez7dQhMd9v_qUbspJ7HHvVYYbMjR_mYNCYYs6IaLhziIQrCo8AGShQNngulAR6cIn2u_EbL7vW7EbPJlFmSplU_bWTtU65kvdDN00cOi-YDkQvHbH3_2fwYexTTr3IeHU2Cz5TsciATXU8)
+7. A conceptual explanation of Bayesian Hyperparameter Optimisation for Machine Learning [[Link]](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)
+8. Reinforcement Learning series: [[Link]](https://www.youtube.com/watch?v=SinprXg2hUA&list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A&index=1)
+
 ## 4: December 29, 2019
 
 1. Blog on the ACM 2017 paper- Get to the point [[Link]](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)
