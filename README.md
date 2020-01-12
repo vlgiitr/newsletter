@@ -2,6 +2,16 @@
 
 This repository serves as a weekly list of interesting reads related to deep learning found by our group members. If you found anything interesting throughout the week, feel free to open an issue or pull request!
 
+## 6: January 12, 2020
+
+1. SIGGRAPH 2018.[[Link]](https://www.youtube.com/watch?v=vppFvq2quQ0)
+2. Tutorials for OpenCV, computer vision, deep learning, image processing, neural networks and artificial intelligence.[[Link]](http://www.aishack.in/)
+3. GlyphNet[[Link]](https://github.com/noahtren/GlyphNet)
+4. Papers Explained-Henry AI Labs series[[Link]](https://m.youtube.com/chann…/UCHB9VepY6kYvZjj0Bgxnpbw/videos)
+5. Autograd & Computation Graphs.[[Link]](https://blog.paperspace.com/pytorch-101-understanding-grap…/)
+6. Machine learning interviews: Lessons from both sides.[[Link]](https://twitter.com/chipro/status/1196232680364376064?s=19)
+
+
 ## 5: January 5, 2020
 
 1. Four Lessons I learnt after my first full-time job after college [[Link]](https://huyenchip.com/2019/12/23/leaving-nvidia-lessons.html)
