@@ -2,6 +2,17 @@
 
 This repository serves as a weekly list of interesting reads related to deep learning found by our group members. If you found anything interesting throughout the week, feel free to open an issue or pull request!
 
+## 7: January 19, 2020
+
+1. Interpreting Deep Learning Models for Computer Vision.[[Link]](https://medium.com/google-developer-experts/interpreting-deep-learning-models-for-computer-vision-f95683e23c1d)
+2. Trends in NLP.[[Link]](https://podcasts.google.com/?feed=aHR0cDovL3R3aW1sYWkubGlic3luLmNvbS9yc3M&episode=YmEzMDFhNWQtN2QxYi00MDgyLTkzNjktNWVkNzEyYjk2MjE5)
+3. Deepmind: Relation between neuroscience & AI.[[Link]](https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI)
+4. Everybody’s Talkin’: Let Me Talk as You Want.[[Link]](https://www.youtube.com/watch?v=tNPuAnvijQk&feature=youtu.be&fbclid=IwAR1QE5CAtmviQ-3LdV9dd3qSn1Offde5Mg1f4eFY5B0lXJMlBU6BQ0fYvP0)
+5. Why should you open-source models along with your paper?[[Link]](https://twitter.com/Thom_Wolf/status/1216990543533821952?s=19)
+6. Solving advanced mathematical problems with neural networks.[[Link]](https://twitter.com/facebookai/status/1217148075862417408?s=19)
+7. List of global AI/ML conferences in 2020[[Link]](https://www.facebook.com/groups/DeepNetGroup/permalink/1064782990581249/)
+
+
 ## 6: January 12, 2020
 
 1. SIGGRAPH 2018.[[Link]](https://www.youtube.com/watch?v=vppFvq2quQ0)
